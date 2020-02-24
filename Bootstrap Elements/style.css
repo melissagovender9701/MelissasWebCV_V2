@@ -1,0 +1,213 @@
+body{
+    background-color: #fff;
+    font-family: 'Raleway';
+}
+.navbar-brand span{
+    color: #8167a9;
+}
+.navbar-brand{
+    font-family: 'Great Vibes';
+    font-weight: 800px;
+}
+.navbar{
+    position: fixed;
+    width:100%;
+    z-index: 1;
+    top:0;
+    border-bottom: #1f2029;
+}
+.navbar .btn{
+    border-color: #1f2029;
+}
+.intro img {
+    position: relative;
+	height: 300px;
+	width: 300px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top: 110px;
+	margin-left:500px;
+    border: #1f2029;
+  }
+.intro .card{
+    background: transparent;
+    margin: 0 auto;
+    margin-top: 300px;
+    text-align: center;
+    position: relative;
+    z-index: 999;
+    margin: 0 auto;
+    margin-left:330px;
+    border: none;
+    font-size: 40px;
+    font-family: 'Great Vibes';
+    font-weight: 300;
+}
+.intro span{
+    color: #8167a9;
+}
+.about span{
+    color: #8167a9;
+}
+.about{
+    color: #1f2029;
+    position: relative;
+}
+.about h1{
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-left: 590px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+    color: #1f2029;
+}
+.about .card{
+    background: transparent;
+    margin: 0 auto;
+    margin-top: 250px;
+    text-align: center;
+    border-color: black;
+}
+.experience span{
+    color: #8167a9;
+}
+.experience h1{
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-left: 610px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+}
+.experience{
+    color: #1f2029;
+}
+.experience .accordion{
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 250px;
+    text-align: center;
+    color: #1f2029;
+}
+.experience h2 {
+    font-family: 'Raleway';
+    font-weight: 100;
+	font-size: 20px;
+	line-height: 1;
+	color: #1f2029;
+	text-align: center;
+}
+
+.experience h4 {
+	font-family: 'Raleway';
+	color: #8167a9;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.experience p {
+	font-family: 'Raleway';
+	font-size: 17px;
+	text-align: inherit;
+	width: 350px;
+	height: 150px;
+	margin-top: 10px;
+	margin-left: 1px;
+}
+.education span{
+    color: #8167a9;
+}
+.education h1{
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-left: 610px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+}
+.education{
+    color: #1f2029;
+}
+.education .card{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-left: 350px;
+    margin-right: -500px;
+}
+.education h2 {
+	font-family: 'Raleway';
+	font-weight: 900;
+	font-size: 17px;
+	line-height: 1;
+	color: #1f2029;
+	text-align: center;
+}
+
+.education h4 {
+	font-family: 'Raleway';
+	color: #8167a9;
+	font-size: 20px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
+.education p {
+	font-family: 'Raleway';
+	font-size: 15px;
+	text-align: center;
+	width: 250px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.education .card-body {
+    height: 200px;
+    margin: 0 auto;
+	margin-top: 50px;
+}
+.education .card{
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-left: 350px;
+}
+.skills span{
+    color: #8167a9;
+}
+.skills h1{
+    margin: 0 auto;
+    margin-top: 300px;
+    margin-left: 610px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+}
+.skills{
+    color: #1f2029;
+}
+.goals span{
+    color: #8167a9;
+}
+.goals h1{
+    margin: 0 auto;
+    margin-top: 300px;
+    margin-left: 610px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+}
+.goals{
+    color: #1f2029;
+}
+.contact span{
+    color: #8167a9;
+}
+.contact h1{
+    margin: 0 auto;
+    margin-top: 300px;
+    margin-left: 610px;
+    margin-bottom: -230px;
+    font-family: 'Great Vibes';
+}
+.contact{
+    color: #1f2029;
+}
